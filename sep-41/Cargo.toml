@@ -8,7 +8,7 @@ license = "MIT"
 edition = "2021"
 readme = "README.md"
 keywords = ["no_std", "wasm", "soroban"]
-rust-version = "1.79"
+rust-version = "1.91"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
